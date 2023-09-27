@@ -1,0 +1,24 @@
+{
+  "name": "rbposapp",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "6.4.2",
+    "@fortawesome/free-solid-svg-icons": "6.4.0",
+    "@fortawesome/react-fontawesome": "0.2.0",
+    "next": "3.0.1-beta.20",
+    "react": "16.8",
+    "react-dom": "16.8"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
